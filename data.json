@@ -1,0 +1,16 @@
+{
+  isAdmin: false,
+  editingField: null,
+  editingLinkId: null,
+  profile: {
+    name: "Ninym Ralei",
+    bio: "Chief Aide to the Crown Prince | Flahm",
+    image: "https://pbs.twimg.com/media/FIyXyWiaMAEKDZe.jpg",
+  },
+  links: [
+    { id: 1, key: "tiktok", url: "https://tiktok.com/@ninym" },
+    { id: 2, key: "instagram", url: "https://instagram.com/ninym.ralei" },
+    { id: 3, key: "youtube", url: "https://youtube.com/c/ninym" },
+    { id: 4, key: "website", url: "https://natra.gov" },
+  ],
+}
