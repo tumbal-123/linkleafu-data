@@ -2,12 +2,12 @@
   "profile": {
     "name": "Ninym Ralei",
     "bio": "Chief Aide to the Crown Prince | Flahm",
-    "image": "https://pbs.twimg.com/media/FIyXyWiaMAEKDZe.jpg",
+    "image": "https://pbs.twimg.com/media/FIyXyWiaMAEKDZe.jpg"
   },
   "links": [
     { "id": 1, "key": "tiktok", "url": "https://tiktok.com/@siapa" },
     { "id": 2, "key": "instagram", "url": "https://instagram.com/siapa" },
     { "id": 3, "key": "whatsapp", "url": "https://wa.me/6287e8128" },
-    { "id": 4, "key": "website", "url": "https://hai.com" },
+    { "id": 4, "key": "website", "url": "https://hai.com" }
   ]
 }
