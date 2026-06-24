@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Neruell",
+    "bio": "Halo, saya mempunyai LinkLeafu!",
+    "image": "./profile.jpg"
+  },
+  "links": [
+    {
+      "id": 1,
+      "key": "tiktok",
+      "url": "https://www.tiktok.com/@soudayonee"
+    },
+    {
+      "id": 2,
+      "key": "instagram",
+      "url": "https://www.instagram.com/naufaladityayahya"
+    }
+  ]
+}
