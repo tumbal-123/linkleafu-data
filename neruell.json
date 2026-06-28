@@ -29,6 +29,11 @@
       "key": "discord",
       "url": "https://",
       "id": 5
+    },
+    {
+      "key": "website",
+      "url": "https://",
+      "id": 6
     }
   ]
 }
